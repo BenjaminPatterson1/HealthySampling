@@ -42,7 +42,7 @@
 41,ITBE_0041,28,F,7,Negative,0.09,0.16,0.17,> 10
 42,ITBE_0042,52,F,10,Negative,0.03,0.04,0.02,> 10
 43,ITBE_0043,30,M,3,Positive,0.11,1.2,1.57,> 10
-44,ITBE_0044,29,F,Unable,Negative,0.04,0.04,0.03,8.11
+44,ITBE_0044,29,F,Unevaluable,Negative,0.04,0.04,0.03,8.11
 45,ITBE_0045,23,M,16,Negative,0.98,0.61,0.82,> 10
 46,ITBE_0046,22,M,0,Negative,0.08,0.08,0.07,7.69
 47,ITBE_0047,19,M,13,Negative,0.08,0.07,0.08,> 10
@@ -57,9 +57,9 @@
 56,ITBE_0056,23,F,4,Positive,0.1,1.43,1.56,> 10
 57,ITBE_0057,23,F,1,Positive,1.3,3.67,2.58,> 10
 58,ITBE_0058,21,F,0,Positive,1.66,> 10,> 10,> 10
-59,ITBE_0059,21,F,unable to perform count,Positive,0.9,2.68,2.79,> 10
+59,ITBE_0059,21,F,unevaluable,Positive,0.9,2.68,2.79,> 10
 60,ITBE_0060,27,F,0,Positive,0.45,6.57,6.88,> 10
-61,ITBE_0061,23,F,unable to perform count,Positive,0.1,1.16,0.79,>10
+61,ITBE_0061,23,F,unevaluable,Positive,0.1,1.16,0.79,>10
 62,ITBE_0062,48,F,1,Positive,0.13,2.82,2.26,7.95
 63,ITBE_0063,58,F,5,Negative,0.05,0.08,0.08,>10
 64,ITBE_0064,60,M,0,Negative,0.03,0.05,0.06,7.81
@@ -69,7 +69,7 @@
 68,ITBE_0068,20,M,5,Negative,0.02,0.02,0.02,>10.00
 69,ITBE_0069,41,F,2,Positive,0.1,2.51,2.42,>10.00
 70,ITBE_0070,32,F,4,Positive,0.08,1.95,1.84,>10.00
-71,ITBE_0071,47,F,unable to perform count,Positive,0.2,0.69,0.67,>10.00
+71,ITBE_0071,47,F,unevaluable,Positive,0.2,0.69,0.67,>10.00
 72,ITBE_0072,39,M,3,Negative,0.03,0.04,0.04,>10.00
 73,ITBE_0073,47,M,0,Positive,1.23,7.38,8.58,>10.00
 74,ITBE_0074,34,F,0,Positive,0.42,1.31,1.72,>10.00
@@ -80,8 +80,8 @@
 79,ITBE_0079,40,F,3,Negative,0.04,0.05,0.04,>10.00
 80,ITBE_0080,47,M,0,Negative,0.1,0.12,0.11,>10.00
 81,ITBE_0081,24,F,0,Positive,0.25,4.23,4.68,>10.00
-82,ITBE_0082,22,M,unable to perform count,Positive,0.12,0.8,0.68,>10.00
-83,ITBE_0083,31,M,unable to perform count,Positive,0.06,0.69,0.49,>10.00
+82,ITBE_0082,22,M,unevaluable,Positive,0.12,0.8,0.68,>10.00
+83,ITBE_0083,31,M,unevaluable,Positive,0.06,0.69,0.49,>10.00
 84,ITBE_0084,21,M,2,Negative,0.02,0.02,0.02,>10.00
 85,ITBE_0085,43,F,0,Positive,0.4,6.95,7.34,>10.00
 86,ITBE-0086,46,F,1,Negative,0.1,0.13,0.14,7.41
@@ -125,12 +125,12 @@
 124,ITBE_0124,68,F,2,Negative,0.03,0.07,0.07,8.62
 125,ITBE_0125,35,F,0,Negative,0.04,0.1,0.14,7.86
 126,ITBE_0126,33,M,0,Negative,0.02,0.02,0.02,9.35
-127,ITBE_0127,36,M,unable to count,Positive,0.09,2.6,2.14,5.21
-128,ITBE_0128,21,F,unable to count,Negative,0.11,0.08,0.08,7.18
+127,ITBE_0127,36,M,unevaluable,Positive,0.09,2.6,2.14,5.21
+128,ITBE_0128,21,F,unevaluable,Negative,0.11,0.08,0.08,7.18
 129,ITBE_0129,48,M,0,Positive,0.06,0.59,0.6,8.23
-130,ITBE_0130,34,F,unable to count,Negative,0.07,0.12,0.18,8.25
-131,ITBE_0131,37,M,unable to count,Positive,1.19,4.31,4.67,8.61
-132,ITBE_0132,27,F,unable to count,Negative,0.08,0.09,0.08,>10.00
+130,ITBE_0130,34,F,unevaluable,Negative,0.07,0.12,0.18,8.25
+131,ITBE_0131,37,M,unevaluable,Positive,1.19,4.31,4.67,8.61
+132,ITBE_0132,27,F,unevaluable,Negative,0.08,0.09,0.08,>10.00
 133,ITBE_0133,37,F,0,Positive,0.12,0.75,0.57,>10.00
 134,ITBE_0134,25,F,0,Positive,0.1,0.69,0.81,>10.00
-135,ITBE_0135,34,F,unable to count,Positive,0.09,2.68,2.69,5.33
+135,ITBE_0135,34,F,unevaluable,Positive,0.09,2.68,2.69,5.33
