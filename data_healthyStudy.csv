@@ -1,4 +1,4 @@
-,Participant.ID,Age,Gender,Total.bioaoerosol.bacillary.count (DMN-trehalose+ Mtb bacilli),Quantiferon.results,TB.Nil,TB.Ag1,TB.Ag2,TB.Mitogen
+,Participant.ID,Age,Gender,Total.bioaoerosol.bacillary.count (DMN-trehalose+ Mtb bacilli),Quantiferon.results,TB.Nil (no range),TB.Ag1 (=<0.35 IU/mL (minus TB.Nil)),TB.Ag2 (=<0.35 IU/mL (minus TB.Nil)),TB.Mitogen (>=0.5 IU/mL (minus TB.Nil))
 1,ITBE_0001,30,F,6,Positive,0.16,9.76,6.85,> 10
 2,ITBE_0002,34,F,19,,,,,
 3,ITBE_0003,24,F,13,Positive,0.04,1.77,0.98,> 10
@@ -42,7 +42,7 @@
 41,ITBE_0041,28,F,7,Negative,0.09,0.16,0.17,> 10
 42,ITBE_0042,52,F,10,Negative,0.03,0.04,0.02,> 10
 43,ITBE_0043,30,M,3,Positive,0.11,1.2,1.57,> 10
-44,ITBE_0044,29,F,Unevaluable,Negative,0.04,0.04,0.03,8.11
+44,ITBE_0044,29,F,unevaluable,Negative,0.04,0.04,0.03,8.11
 45,ITBE_0045,23,M,16,Negative,0.98,0.61,0.82,> 10
 46,ITBE_0046,22,M,0,Negative,0.08,0.08,0.07,7.69
 47,ITBE_0047,19,M,13,Negative,0.08,0.07,0.08,> 10
