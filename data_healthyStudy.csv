@@ -1,4 +1,4 @@
-,Participant.ID,Age,Gender,Total.DMN.count,Quantiferon.results,TB.Nil,TB.Ag1,TB.Ag2,TB.Mitogen
+,Participant.ID,Age,Gender,Total.bioaoerosol.bacillary.count (DMN-trehalose+ Mtb bacilli),Quantiferon.results,TB.Nil,TB.Ag1,TB.Ag2,TB.Mitogen
 1,ITBE_0001,30,F,6,Positive,0.16,9.76,6.85,> 10
 2,ITBE_0002,34,F,19,,,,,
 3,ITBE_0003,24,F,13,Positive,0.04,1.77,0.98,> 10
